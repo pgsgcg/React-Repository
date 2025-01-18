@@ -1,0 +1,16 @@
+https://www.pragimtech.com/blog/reactjs/Introduction-to-Function-Components-React/
+
+https://www.scholarhat.com/tutorial/react/functional-component-react
+
+https://www.robinwieruch.de/react-function-component/
+
+https://escuela-tech.medium.com/how-to-deploy-reactjs-app-in-apache-tomcat-server-16a77e6b56e6
+
+For Dynamic data table
+https://dzone.com/articles/react-bootstrap-table-with-searching-and-custom-pa
+
+npm install react-data-table-component
+npm install @material-ui/icons
+
+https://www.devonblog.com/frontend/communication-between-the-react-components-part-1/
+https://riptutorial.com/reactjs/example/22463/parent-to-child-components
